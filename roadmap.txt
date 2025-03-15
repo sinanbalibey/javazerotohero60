@@ -1,0 +1,86 @@
+1. Hafta (1-7. Günler): Temel Java Bilgisi
+
+    Java Syntax, Değişkenler, Veri Tipleri
+    Operatörler, Koşullar, Döngüler
+    Diziler, ArrayList, Collections
+    Metotlar ve Overloading
+    Debugging ve Exception Handling
+    Class, Object, Constructor
+    Encapsulation, Abstraction
+
+2. Hafta (8-14. Günler): OOP ve Veri Yapıları
+
+    Inheritance, Polymorphism
+    Interface vs Abstract Class
+    Design Principles (SOLID, DRY, KISS, YAGNI)
+    LinkedList, Stack, Queue
+    HashMap, HashSet
+    Sorting Algoritmaları (Bubble, Merge, Quick Sort)
+    Searching Algoritmaları (Binary Search, BFS, DFS)
+
+3. Hafta (15-21. Günler): Java IO ve Threads
+
+    Recursion ve Dynamic Programming
+    File Handling (Reader, Writer, Streams)
+    Serialization & Deserialization
+    MultiThreading ve Concurrency
+    Executors, Synchronization, Locks
+    Deadlock, Livelock ve Thread Pool
+    JVM Architecture, JIT Compiler
+
+4. Hafta (22-28. Günler): JVM ve Performans Optimizasyonu
+
+    Garbage Collection ve Memory Management
+    Profiling Araçları (JVisualVM, JConsole)
+    Reflection API ve Dynamic Proxy
+    Java Modularity (Jigsaw)
+    Lambda Expressions
+    Streams API
+    Optional ve Method References
+
+5. Hafta (29-35. Günler): Design Patterns ve Best Practices
+
+    CompletableFuture & Reactive Programming
+    Java 9+, 10+, 11+ Yenilikleri
+    Singleton, Factory, Builder
+    Strategy, Observer, Adapter
+    Dependency Injection ve IOC
+    MVC ve Layered Architecture
+    RESTful API Design Principles
+
+6. Hafta (36-42. Günler): Test Otomasyonu ve Spring Boot
+
+    JUnit & Mockito
+    Test Driven Development (TDD)
+    Integration Testing
+    Performance & Load Testing
+    CI/CD Test Pipelines
+    Spring Core, Beans, Dependency Injection
+    Spring Boot Configuration & Properties
+
+7. Hafta (43-49. Günler): Microservices ve DevOps
+
+    Spring MVC ve REST API
+    Spring Data JPA ve Hibernate
+    Exception Handling ve Validation
+    Microservices Architecture
+    Spring Cloud & Circuit Breakers
+    API Gateway ve Service Discovery
+    Docker & Kubernetes
+
+8. Hafta (50-56. Günler): Veritabanı, Messaging ve Caching
+
+    CI/CD ile Deployment (Jenkins, GitHub Actions)
+    Relational Databases (MySQL, PostgreSQL)
+    NoSQL (MongoDB, Redis)
+    Kafka ve RabbitMQ
+    Caching Stratejileri
+    Event-Driven Architecture
+    Java Core ve OOP Mülakat Soruları
+
+9. Hafta (57-60. Günler): Mülakat Soruları ve Proje Geliştirme
+
+    Data Structures & Algorithms Mülakat Soruları
+    System Design & Scalability
+    Gerçek Hayattan Proje Geliştirme
+    Son Değerlendirme ve GitHub Review
